@@ -1,6 +1,6 @@
 # Flutter Google Maps
 
-Flutter maps
+Flutter google maps, Geolocator, Flutter Bloc
 
 ## Getting Started
 
